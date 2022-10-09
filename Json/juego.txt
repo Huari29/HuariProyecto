@@ -1,0 +1,78 @@
+{
+  "cubo": null,
+  "Context": {
+    "ErrorChecking": true,
+    "IsCurrent": true,
+    "IsDisposed": false,
+    "SwapInterval": 0,
+    "GraphicsMode": {
+      "Index": {
+        "value": 8
+      },
+      "ColorFormat": {
+        "Red": 8,
+        "Green": 8,
+        "Blue": 8,
+        "Alpha": 8,
+        "IsIndexed": false,
+        "BitsPerPixel": 32
+      },
+      "AccumulatorFormat": {
+        "Red": 16,
+        "Green": 16,
+        "Blue": 16,
+        "Alpha": 16,
+        "IsIndexed": false,
+        "BitsPerPixel": 64
+      },
+      "Depth": 16,
+      "Stencil": 8,
+      "Samples": 0,
+      "Stereo": false,
+      "Buffers": 2
+    }
+  },
+  "IsExiting": false,
+  "RenderFrequency": 1.0,
+  "RenderPeriod": 0.0,
+  "RenderTime": 0.0,
+  "TargetRenderFrequency": 0.0,
+  "TargetRenderPeriod": 0.0,
+  "TargetUpdateFrequency": 0.0,
+  "TargetUpdatePeriod": 0.0,
+  "UpdateFrequency": 1.0,
+  "UpdatePeriod": 0.0,
+  "UpdateTime": 0.0,
+  "VSync": 0,
+  "WindowState": 0,
+  "Bounds": "232, 181, 816, 639",
+  "ClientRectangle": "0, 0, 800, 600",
+  "ClientSize": "800, 600",
+  "Cursor": {},
+  "Exists": true,
+  "Focused": false,
+  "Height": 600,
+  "Icon": null,
+  "Location": "232, 181",
+  "Size": "816, 639",
+  "Title": "Demo OpenTK",
+  "Visible": false,
+  "Width": 800,
+  "WindowBorder": 0,
+  "WindowInfo": {
+    "Handle": {
+      "value": 2295628
+    },
+    "Parent": null,
+    "DeviceContext": {
+      "value": -2063526461
+    },
+    "WindowHandle": {
+      "value": 2295628
+    }
+  },
+  "X": 232,
+  "Y": 181,
+  "CursorVisible": true,
+  "CursorGrabbed": false
+}

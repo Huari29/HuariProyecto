@@ -1,0 +1,18 @@
+{
+  "objetos": [
+    {
+      "puntos": [
+        {
+          "ancho": 10.0,
+          "alto": 10.0,
+          "profundidad": 10.0,
+          "origen": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}
